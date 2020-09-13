@@ -56,7 +56,7 @@ def dennis_ritchies_language
         }
      }
      
-programmer_hash[:alan_kay][:known_for][:languages]
+programmer_hash[:alan_kay][:dennis_ritchie][:languages]
 end
 
 def adding_matz
